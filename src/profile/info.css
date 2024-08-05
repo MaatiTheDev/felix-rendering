@@ -1,0 +1,10 @@
+.information{
+    height: 50%;
+    width: auto;
+     padding: 10px 20px;
+     margin: 2rem;
+     box-shadow: 5px 5px rgba(27, 26, 26,0.4);
+     border-radius: 2rem;
+     background-color: rgba(27, 26, 26,0.2);
+     backdrop-filter: blur(2px);
+}
